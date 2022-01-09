@@ -1,0 +1,2 @@
+pyinstaller==4.7
+youtube_dl==2021.6.6
